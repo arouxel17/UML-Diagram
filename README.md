@@ -4,3 +4,5 @@
 
 
 # Sequence Diagram 
+
+![sequenceclass](https://user-images.githubusercontent.com/104839076/225287336-665dedcd-bae7-4e1b-a334-b7506512303c.PNG)
